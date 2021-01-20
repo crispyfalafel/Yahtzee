@@ -1,3 +1,6 @@
+# COMP 1510 Final Exam
+A two-player Yahtzee game built in 6 hours.
+
 # Features
 - Two players
 - Printed score card
